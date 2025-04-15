@@ -1,4 +1,4 @@
 # projeto_agrinho
-## <TITULO DO PROJETO>
+## TITULO DO PROJETO
 
 descrição do projeto
